@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![com3dian's GitHub stats](https://github-readme-stats.vercel.app/api?username=com3dian&bg_color=DEG,E14D2A,FD841F,404258,474E68,50577A)](https://github.com/com3dian/github-readme-stats)
+[![com3dian's GitHub stats](https://github-readme-stats.vercel.app/api?username=com3dian&bg_color=DEG,E14D2A,FD841F,3E6D9C,404258,474E68,50577A)](https://github.com/com3dian/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=com3dian&layout=compact)](https://github.com/com3dian/github-readme-stats)
