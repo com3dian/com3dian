@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![com3dian's GitHub stats](https://github-readme-stats.vercel.app/api?username=com3dian)](https://github.com/com3dian/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=com3dian)](https://github.com/com3dian/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=com3dian&layout=compact)](https://github.com/com3dian/github-readme-stats)
