@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![com3dian's GitHub stats](https://github-readme-stats.vercel.app/api?username=com3dian&bg_color=DEG,9BBEC8,427D9D,164863,164863&text_color=F8FFDB&title_color=FAF7F0)](https://github.com/com3dian/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=com3dian&hide=jupyter%20notebook,cmake,qmake&layout=compact&bg_color=DEG,EFE9D5,71BBB2,497D74,27445D&text_color=F8FFDB&title_color=FAF7F0)](https://github.com/com3dian/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=com3dian&hide=jupyter%20notebook,qmake&layout=compact&bg_color=DEG,EFE9D5,71BBB2,497D74,27445D&text_color=F8FFDB&title_color=FAF7F0)](https://github.com/com3dian/github-readme-stats)
