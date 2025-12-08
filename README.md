@@ -1,7 +1,23 @@
 ### Hi there 👋
 
-I'm Zehao Lu, currently working as a researcher engineer at Wageingen University, previously I work at ITC at Twente University.
+I'm Zehao Lu, currently working as a research engineer at Wageningen University.
 
+My research focuses on applying LLMs to domain-specific applications and building foundation models for science.
+
+I love building apps and tools.
+
+### I’ve built
+
+- An LLM-based [Metadata Harvester](https://github.com/LTER-LIFE/llm-metadata-harvester).
+- A copilot for QGIS, [IntelliGEO](https://github.com/MahdiFarnaghi/intelli_geo).
+
+### I’m building ✊
+
+- A cross-platform text editor [typrison](https://github.com/com3dian/typistprison).
+- A video game (Steam store page coming soon!).
+
+### My relationship with languages 😄
+Native to C, happy with Python, eager to learn Julia, vibe-coded in C++, beginner in Rust, broke up with R, ok with Kotlin, & never liked Java.
 <!--
 **com3dian/com3dian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
