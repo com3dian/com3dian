@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Zehao Lu, currently working as a researcher engineer at Wageingen University, previously I work at ITC at Twente University.
+
 <!--
 **com3dian/com3dian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
