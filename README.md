@@ -16,7 +16,7 @@ I love building apps and tools.
 - A video game (Steam store page coming soon!).
 
 ### My relationship with languages 😄
-Native to C, happy with Python, eager to learn Julia, vibe-coded in C++, beginner in Rust, broke up with R, ok with Kotlin, & never liked Java.
+*Native* to C, *happy* with Python, *eager* to learn Julia, *vibe*-coded in C++, beginner in Rust, *broke up* with R, *ok* with Kotlin, & *never liked* Java.
 <!--
 **com3dian/com3dian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
