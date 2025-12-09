@@ -6,7 +6,7 @@ I love building apps and tools.
 
 ### I’ve built 🖐
 
-- An LLM-based [metadata harvester](https://github.com/LTER-LIFE/llm-metadata-harvester).
+- An LLM [metadata harvester](https://github.com/LTER-LIFE/llm-metadata-harvester).
 - A copilot for QGIS, [IntelliGEO](https://github.com/MahdiFarnaghi/intelli_geo).
 - Scipy's high dimensional [wasserstein distance](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.wasserstein_distance_nd.html).
 
