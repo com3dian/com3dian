@@ -4,7 +4,7 @@ I'm Zehao Lu, currently working as a research engineer at Wageningen University.
 My research focuses on applying LLMs to domain-specific applications and building foundation models for science.
 I love building apps and tools.
 
-### I’ve built
+### I’ve built 🖐
 
 - An LLM-based [metadata harvester](https://github.com/LTER-LIFE/llm-metadata-harvester).
 - A copilot for QGIS, [IntelliGEO](https://github.com/MahdiFarnaghi/intelli_geo).
