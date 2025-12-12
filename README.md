@@ -33,8 +33,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### My github stats 👇
-
 [![com3dian's GitHub stats](https://github-readme-stats.vercel.app/api?username=com3dian&bg_color=DEG,67AE6E,328E6E&text_color=F8FFDB&title_color=FAF7F0)](https://github.com/com3dian/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=com3dian&hide=jupyter%20notebook,qmake&layout=compact&bg_color=DEG,67AE6E,328E6E&text_color=F8FFDB&title_color=FAF7F0)](https://github.com/com3dian/github-readme-stats)
