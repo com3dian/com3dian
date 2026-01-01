@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Zehao Lu, currently working as a research engineer at Wageningen University.
-My research focuses on applying LLMs to domain-specific applications and building foundation models for science.
+My research focuses on LLMs & agentic AI.
 
 *I love building apps and tools.*
 
