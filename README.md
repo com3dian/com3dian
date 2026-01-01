@@ -13,7 +13,7 @@ My research focuses on applying LLMs to domain-specific applications and buildin
 
 ### I’m building ✊
 
-- A cross-platform text editor [typrison](https://github.com/com3dian/typistprison).
+- A cross-platform *writing* editor [typrison](https://github.com/com3dian/typistprison).
 - A video game (Steam store page coming soon!).
 
 ### My relationship with languages 🤌
