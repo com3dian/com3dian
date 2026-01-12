@@ -13,7 +13,7 @@ My research focuses on LLMs & agentic AI.
 
 ### I’m building ✊
 
-- A cross-platform *writing* editor [typrison](https://github.com/com3dian/typistprison).
+- A cross-platform *writing* editor [typrison](https://github.com/com3dian/typrison).
 - A video game (Steam store page coming soon!).
 
 ### My relationship with languages 🤌
