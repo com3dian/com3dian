@@ -13,6 +13,7 @@ My research focuses on LLMs & agentic AI.
 
 ### I’m building ✊
 
+- A [metadata/dataset agent](https://github.com/com3dian/metadata_agent).
 - A cross-platform *writing* editor [typrison](https://github.com/com3dian/typrison).
 - A video game (Steam store page coming soon!).
 
